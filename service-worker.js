@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bestest-amazingest-shop-react/precache-manifest.3e3223536e160c61c69961fcb51d49ec.js"
+  "/bestest-amazingest-shop-react/precache-manifest.6afd4e94fbc587ddf11db4923934cc6b.js"
 );
 
 workbox.clientsClaim();
